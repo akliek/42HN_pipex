@@ -32,5 +32,5 @@ After insatalation run following command:
 ```
 The execution of the pipex program should do the same as the next shell command:
 ```
-$> < file1 cmd1 | cmd2 > file2
+$> file1 < cmd1 | cmd2 > file2
 ```
